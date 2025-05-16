@@ -124,7 +124,7 @@
 - **LeaderBoardActivity**: Hiển thị xếp hạng người dùng dựa trên hiệu suất bài kiểm tra.
 
 ## Link Figma
-- Thiết kế giao diện: [https://www.figma.com/file/sample-design-link](https://www.figma.com/file/sample-design-link) (Lưu ý: Đây là liên kết mẫu, vui lòng thay thế bằng liên kết thực tế nếu có.)
+- Thiết kế giao diện:  https://www.figma.com/design/IoUiMht6sYNXOpXK1LTh1T/Design-mobile-app?node-id=0-1&t=sxfKVVyXTqjW9bV2-1
 
 ## Cài Đặt
 1. **Yêu Cầu Trước**:
@@ -213,11 +213,3 @@ Dự án này được phát triển trong khuôn khổ một môn học tại t
 3. Ghi nhận thay đổi (`git commit -m "Thêm tính năng của bạn"`).
 4. Đẩy lên nhánh (`git push origin feature/your-feature`).
 5. Mở một yêu cầu kéo.
-
-## Lời Cảm Ơn
-- **Giảng Viên Hướng Dẫn**: Thầy Nguyễn Hữu Trung, vì sự hướng dẫn tận tình và hỗ trợ trong suốt quá trình thực hiện dự án.
-- **Nhóm**: Nhóm 15, vì sự hợp tác trong việc thiết kế, phát triển, và kiểm thử ứng dụng.
-- **HCMUTE**: Vì đã cung cấp môi trường học thuật và nguồn lực để hoàn thành dự án này.
-
-## Giấy Phép
-Dự án này được cấp phép theo Giấy phép MIT. Vui lòng xem tệp [LICENSE](LICENSE) để biết chi tiết.
