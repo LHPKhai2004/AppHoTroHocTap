@@ -87,7 +87,7 @@
    - **Mục Đích**: Cung cấp giao diện bài kiểm tra rõ ràng và hấp dẫn với phản hồi tức thì.
 
 ## Chi Tiết Kỹ Thuật
-### Phần Giao Diện (Mobile)
+### Phần FrontEnd (Mobile)
 - **Công Nghệ**: Android Studio  
 - **Ngôn Ngữ**: Java  
 - **Framework**: Android SDK  
@@ -101,7 +101,7 @@
   - SharedPreferences lưu trữ dữ liệu người dùng (ví dụ: tên người dùng, mã thông báo).
   - AsyncTask và ProgressBarAnimation tạo trải nghiệm màn hình khởi động mượt mà.
 
-### Phần Hậu Cần (API)
+### Phần BackEnd (API)
 - **Công Nghệ**:
   - **Framework**: Spring Boot  
   - **Ngôn Ngữ**: Java (JDK 17)  
