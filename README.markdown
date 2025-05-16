@@ -87,9 +87,10 @@
    - **Mục Đích**: Cung cấp giao diện bài kiểm tra rõ ràng và hấp dẫn với phản hồi tức thì.
 
 ## Chi Tiết Kỹ Thuật
-### Phần Giao Diện (Android)
+### Phần Giao Diện (Mobile)
+- **Công Nghệ**: Android Studio  
 - **Ngôn Ngữ**: Java  
-- **Khung Công Tác**: Android SDK  
+- **Framework**: Android SDK  
 - **Thư Viện Chính**:
   - **Retrofit**: Để giao tiếp với API.
   - **Picasso**: Để tải hình ảnh trong bài luyện nghe.
@@ -100,7 +101,12 @@
   - SharedPreferences lưu trữ dữ liệu người dùng (ví dụ: tên người dùng, mã thông báo).
   - AsyncTask và ProgressBarAnimation tạo trải nghiệm màn hình khởi động mượt mà.
 
-### Phần Hậu Cần
+### Phần Hậu Cần (API)
+- **Công Nghệ**:
+  - **Framework**: Spring Boot  
+  - **Ngôn Ngữ**: Java (JDK 17)  
+  - **Cơ Sở Dữ Liệu**: MySQL 8.0  
+  - **Môi Trường Phát Triển**: IntelliJ IDEA  
 - **Bộ Điều Khiển**:
   - **AuthenticationController**: Quản lý đăng nhập, đăng ký, khôi phục mật khẩu, và xác minh OTP.
   - **TopicController**: Xử lý danh sách chủ đề.
@@ -116,6 +122,9 @@
 - **ListeningActivity**: Cung cấp bài tập nghe với câu hỏi trắc nghiệm.
 - **MultipleChoiceActivity, ResultActivity**: Quản lý bài trắc nghiệm và hiển thị kết quả.
 - **LeaderBoardActivity**: Hiển thị xếp hạng người dùng dựa trên hiệu suất bài kiểm tra.
+
+## Link Figma
+- Thiết kế giao diện: [https://www.figma.com/file/sample-design-link](https://www.figma.com/file/sample-design-link) (Lưu ý: Đây là liên kết mẫu, vui lòng thay thế bằng liên kết thực tế nếu có.)
 
 ## Cài Đặt
 1. **Yêu Cầu Trước**:
